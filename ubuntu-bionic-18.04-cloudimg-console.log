@@ -607,4 +607,4 @@ Welcome to [1mUbuntu 18.04.4 LTS[0m!
 
 Ubuntu 18.04.4 LTS ubuntu-bionic ttyS0
 
-ubuntu-bionic login: 
+ubuntu-bionic login: [ 5909.521842] EXT4-fs error (device sda1): htree_dirblock_to_tree:994: inode #48792: comm updatedb.mlocat: Directory block failed checksum
